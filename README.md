@@ -41,4 +41,4 @@
 **git commit** -> takes staged files and creates save point / commit number
 -`git commit -m 'enter in MEANINGFUL commit message'`
 **git log** -> shows full log of all commits to branch master
-
+**git push** -> sends commits to github
